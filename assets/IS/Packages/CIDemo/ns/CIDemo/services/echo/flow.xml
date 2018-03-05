@@ -115,4 +115,8 @@
 <MAP TIMEOUT="" MODE="STANDALONE">
   <COMMENT>just for comment</COMMENT>
 </MAP>
+
+<MAP TIMEOUT="" MODE="STANDALONE">
+  <COMMENT>another comment</COMMENT>
+</MAP>
 </FLOW>
